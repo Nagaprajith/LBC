@@ -166,6 +166,9 @@ The correct codeword is : 0 0 0 0 0 0
   ![WhatsApp Image 2025-04-08 at 10 53 33_9e5dc61d](https://github.com/user-attachments/assets/e8625019-9871-4bbf-9e00-362268e9deb7)
 
    ![WhatsApp Image 2025-04-08 at 10 54 14_b5a77ca5](https://github.com/user-attachments/assets/25af3378-d7ee-4a29-beae-fdceb473c361)
+### MANUAL CALCULATION
+   ![WhatsApp Image 2025-04-12 at 16 12 51_b70b1b8b](https://github.com/user-attachments/assets/acd7e795-5cb7-43fc-89ef-972a2d9a875a)
+   ![WhatsApp Image 2025-04-12 at 16 13 01_a3d145a2](https://github.com/user-attachments/assets/c941eb7f-d825-4fb2-9b76-389296461984)
 
 ### Result
     Using linear block codes, errors in transmitted data can be efficiently detected and corrected, improving the reliability of communication systems without significantly increasing the data size.
